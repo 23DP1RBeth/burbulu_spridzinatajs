@@ -1,4 +1,4 @@
-# burbulu_spridzinatajs
+# Burbulu_spridzinātājs
 
 ## Spēles mērķis
 
